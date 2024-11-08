@@ -1,8 +1,9 @@
-Has the Global Inflation Rate of the Past few decades Correlate to Renewable Energy Production?
+Does the Global Inflation Rate of the Past few decades Correlate to Renewable Energy Production?
 
 General Analysis:
 Looking for trends - spikes, acceleration/deceleration, deflation, as well
 as general summary statistics on a macrolevel.
+
 ------------------------------------------------------------------------------------------------
 1.How have global energy prices shifted over the past few decades in relation to inflation rates?
 Breakdown:
