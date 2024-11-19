@@ -7,7 +7,7 @@ as general summary statistics on a macrolevel.
 ------------------------------------------------------------------------------------------------
 1.How have global energy prices shifted over the past few decades in relation to inflation rates?
 Breakdown:
-    1.read in the data set/access api via api_key 
+    1.read in the data set
     2.turn dataset into a dataframe for manipulation
     3.clean and filter data set
     4.configure api_key and establish factors and key values to call for
@@ -16,8 +16,6 @@ Breakdown:
 datasets:
 GlobalDatasetofInflation.csv
 
-api's:
-EIA API
 -----------------------------------------------------------------------------------------------------------
 2.How has the transition to renewable energy sources impact inflation compared to traditional fossil fuels?
 
@@ -34,5 +32,12 @@ Breakdown:
 datasets: 
 global-data-on-susatinable-energy.csv
 
-api's:
+API:
 EIA API
+
+
+The datasets used in these analysis were collected from kaggle.com:
+
+https://www.kaggle.com/datasets/belayethossainds/global-inflation-dataset-212-country-19702022
+
+https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy
