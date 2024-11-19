@@ -32,12 +32,6 @@ Breakdown:
 datasets: 
 global-data-on-susatinable-energy.csv
 
-API:
-EIA API
-
-
 The datasets used in these analysis were collected from kaggle.com:
-
 https://www.kaggle.com/datasets/belayethossainds/global-inflation-dataset-212-country-19702022
-
 https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy
