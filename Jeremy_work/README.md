@@ -10,9 +10,8 @@ Breakdown:
     1.read in the data set
     2.turn dataset into a dataframe for manipulation
     3.clean and filter data set
-    4.configure api_key and establish factors and key values to call for
-    5.call and store data from api in a seperate dataframe, then merge the two for analysis.
-    6.generate summary statistics, and a few visualizations for trends.
+    4.call and store data from api in a seperate dataframe, then merge the two for analysis.
+    5.generate summary statistics, and a few visualizations for trends.
 datasets:
 GlobalDatasetofInflation.csv
 
@@ -25,9 +24,8 @@ Breakdown:
     1.read in the data set/access api via api_key 
     2.turn dataset into a dataframe for manipulation
     3.clean and filter data sets
-    4.configure api_key and establish factors and key values to call for
-    5.call and store data from api in a seperate dataframe, then merge the three for analysis.
-    6.generate summary statistics, and a few visualizations for trends.
+    4.call and store data from api in a seperate dataframe, then merge the three for analysis.
+    5.generate summary statistics, and a few visualizations for trends.
 
 datasets: 
 global-data-on-susatinable-energy.csv
